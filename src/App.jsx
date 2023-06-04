@@ -14,7 +14,7 @@ export default function App() {
           <Cards
             image='https://www.searchenginejournal.com/wp-content/uploads/2021/08/top-5-reasons-why-you-need-a-social-media-manager-616015983b3ba-sej.png'
             title="D-connect"
-            desc="Access the secure and Decentralised social media application which enables users to share their content on peer to peer network" link="https://main--guileless-boba-7d3887.netlify.app/" />
+            desc="Access the secure and Decentralised social media application which enables users to share their content on peer to peer network" link="https://dconnect.netlify.app/" />
           <Cards image='https://i.postimg.cc/zXhDfxMb/logo1-1.png'
 
             title="PhotoBloc"
