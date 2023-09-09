@@ -18,7 +18,7 @@ export default function App() {
           <Cards image='https://i.postimg.cc/zXhDfxMb/logo1-1.png'
 
             title="PhotoBloc"
-            desc=" Acess the hyperVault which is safe and secure photo storage application which is based on blokchain ."  link="http://127.0.0.1:5173/"/>
+            desc=" Acess the hyperVault which is safe and secure photo storage application which is based on blokchain ."  link="https://github.com/krishmk1009/Decentralised_Photo_storage-Dapp"/>
 
         </div>
       </div >
